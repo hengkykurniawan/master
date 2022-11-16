@@ -16,9 +16,8 @@ related methods
 concepts
 3. Equip students with basic coding skills with *R*
 
----
 
-## 2021 Course Materials
+<!-- ## 2021 Course Materials
 
 * [Syllabus](./2017spring/Syllabus_17.pdf)
 
@@ -48,6 +47,6 @@ I disccus one real-world application at the beginning of each class.
 * [The Tragedy of Child Soldiering](./2017spring/PB11_child_soldier.pdf)
 * [Central Bank and Financial Crisis](./2017spring/PB12_bank_run.pdf)
 * [Direct Democracy = Better Governance?](./2017spring/PB13_tax_assesser.pdf)
-* [Eradicating Malaria in the Americas](./2017spring/PB14_malaria.pdf)
+* [Eradicating Malaria in the Americas](./2017spring/PB14_malaria.pdf) -->
 
 
