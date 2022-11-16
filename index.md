@@ -49,4 +49,4 @@ I disccus one real-world application at the beginning of each class.
 * [Direct Democracy = Better Governance?](./2017spring/PB13_tax_assesser.pdf)
 * [Eradicating Malaria in the Americas](./2017spring/PB14_malaria.pdf) -->
 
-
+$\gamma + \lambda$
