@@ -1,16 +1,8 @@
-## Welcome to POLI 171 at UCSD
+## Welcome to Microeconomics 2 at FEBUI
 
-by [Yiqing Xu](http://yiqingxu.org/)
+by [HK](http://hk.org/)
 
-This course explores how we can make policy recommendations using
-data. The overall goal of this course is to introduce a basic
-framework for policy evaluation -- what we call *design-based causal
-inference* -- essentially, how we can use statistical methods to answer
-research questions that concern the impact of some cause on certain
-policy outcomes. We cover the mostly commonly used research designs,
-including randomized experiments, selection on observables, and
-difference-in-differences, and analyze the strengths and weaknesses of
-these methods using applications from the real world.
+masih diisi
 
 From a skill-builiding point of view, this course has three objecives:
 1. Introduce an analytical framework for policy evaluation and discuss several
@@ -21,7 +13,7 @@ concepts
 
 ---
 
-## 2017 Course Materials
+## 2021 Course Materials
 
 * [Syllabus](./2017spring/Syllabus_17.pdf)
 
