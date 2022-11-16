@@ -22,12 +22,14 @@ concepts
 Silahkan download di link di bawah ini:
 
 * [Introduction](./2017spring/01_intro.pdf)
+
 <!-- * [Potential Outcomes Framework](./2017spring/02_po.pdf)
 * [Randomized Controlled Trials](./2017spring/03_rct.pdf)
 * [Selection on Observables](./2017spring/04_soo.pdf)
 * [Difference-in-Differences](./2017spring/05_did.pdf)
 * [Final Review](./2017spring/06_review.pdf)
  -->
+ 
 <!-- ### Policy Briefings
 
 I disccus one real-world application at the beginning of each class.
