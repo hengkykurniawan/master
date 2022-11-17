@@ -9,9 +9,9 @@ From a skill-builiding point of view, this course has three objecives:
 related methods
 2. Introduce the most basic (and some of the most important) statistical
 concepts
-3. Equip students with basic coding skills with *R*
+3. Equip students with basic coding skills with *R* and $\gamma$
 
-$ Y_t = \gamma X_1 + \gamma X_2 + \varepsilon_i $
+$Y_t = \gamma X_1 + \gamma X_2 + \varepsilon_i$
 
 <!-- ## 2021 Course Materials
 
