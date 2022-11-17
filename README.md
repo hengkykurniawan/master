@@ -11,6 +11,7 @@ related methods
 concepts
 3. Equip students with basic coding skills with *R*
 
+$ Y_t = \gamma X_1 + \gamma X_2 + \varepsilon_i $
 
 <!-- ## 2021 Course Materials
 
