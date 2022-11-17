@@ -1,4 +1,4 @@
-## Welcome to Microeconomics 2 at FEBUI
+# Microeconomics 2 at FEBUI
 
 by [HK](http://hk.org/)
 
